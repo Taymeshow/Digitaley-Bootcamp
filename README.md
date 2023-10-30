@@ -30,7 +30,7 @@ The report is a pager consisting of:
 ![](Customer_satisfaction.PNG)
 
 56.55% of customers are Neutral or dissatsified with Dano Ailine's services
-43.45% of customers are satisfied Dano Ailine's services
+43.45% of customers are satisfied Dano Airline's services
 
 ### Class Of Tickets:
 ![](Customer_class.PNG)
@@ -47,7 +47,7 @@ All services provided by the airline such as :
 2. Online Boarding;
 3. Food and Drink;
 4. Seat comfort e.t.c
-Need to be looked at and made better as the data revelead customers are Neutral and Dissatisfied.
+Need to be looked at and made better as the data revealed customers are Neutral and Dissatisfied.
 
 ## Conclusion and Recommendations:
 1. Most of the head of services have to be looked into and revamped for better customer service provision.
