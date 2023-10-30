@@ -29,7 +29,7 @@ The report is a pager consisting of:
 
 ![](Customer_satisfaction.PNG)
 
-56.55% of customers are Neutral or dissatsified with Dano Ailine's services
+56.55% of customers are Neutral or dissatsified with Dano Airline's services
 43.45% of customers are satisfied Dano Airline's services
 
 ### Class Of Tickets:
